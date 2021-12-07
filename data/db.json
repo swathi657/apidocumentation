@@ -1,0 +1,31 @@
+{
+  "apis": [
+    {
+      "id": 2,
+      "project": "LIS",
+      "version": "1.0",
+      "api_url": "api/posts",
+      "documentation_url": "https://devlabwerkslis.docs.apiary.io/#",
+      "postman_collection_url": "https://devlabwerkslis.docs.apiary.io/#",
+      "postman_env_url": "https://devlabwerkslis.docs.apiary.io/#"
+    },
+    {
+      "id": 3,
+      "project": "LIS",
+      "version": "1.0",
+      "api_url": "api/posts",
+      "documentation_url": "https://devlabwerkslis.docs.apiary.io/#",
+      "postman_collection_url": "https://devlabwerkslis.docs.apiary.io/#",
+      "postman_env_url": "https://devlabwerkslis.docs.apiary.io/#"
+    },
+    {
+      "project": "",
+      "version": "",
+      "api_url": "",
+      "documentation_url": "",
+      "postman_collection_url": "",
+      "postman_env_url": "",
+      "id": 6
+    }
+  ]
+}
